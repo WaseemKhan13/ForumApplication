@@ -89,6 +89,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Images\Avatar.jpg" />
+    <Content Include="Images\DropDown.png" />
+    <Content Include="Images\Chrome.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
